@@ -1,1 +1,2 @@
-# patisuro
+＃patisuro
+簡単なスロットのプログラムです。
